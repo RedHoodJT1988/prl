@@ -1,0 +1,12 @@
+{
+  "name": "prl",
+  "displayName": "prl",
+  "expo": {
+    "name": "prl",
+    "slug": "prl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
